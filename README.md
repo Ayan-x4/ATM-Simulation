@@ -115,7 +115,7 @@ npm run dev
 
   <h2>🎥 Demo Video</h2>
 
-  <video width="100%" controls>
+  <video  width="100%" controls autoplay muted loop>
     <source src="./assets/Atm_by_ayan.mp4" type="video/mp4" loop autoplay />
     Your browser does not support the video tag.
   </video>
