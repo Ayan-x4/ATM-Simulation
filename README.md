@@ -115,10 +115,9 @@ npm run dev
 
   <h2>🎥 Demo Video</h2>
 
-  <video  width="100%" controls autoplay muted loop>
-    <source src="./assets/Atm_by_ayan.mp4" type="video/mp4" />
-    Your browser does not support the video tag.
-  </video>
+  <img width="100%">
+    <source src="https://s5.ezgif.com/tmp/ezgif-57a01fef3137a18f.gif" />
+  </img>
 
   <hr />
 
