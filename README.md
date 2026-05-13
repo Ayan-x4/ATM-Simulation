@@ -114,11 +114,6 @@ npm run dev
 
   <hr />
 
-  <h2>📸 Screenshots</h2>
-
-  <p>Add your project screenshots here.</p>
-
-  <hr />
 
   <h2>🎞️ Demo GIF</h2>
 
