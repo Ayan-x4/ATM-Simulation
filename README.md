@@ -116,7 +116,7 @@ npm run dev
   <h2>🎥 Demo Video</h2>
 
   <video  width="100%" controls autoplay muted loop>
-    <source src="./assets/Atm_by_ayan.mp4" type="video/mp4" loop autoplay />
+    <source src="./assets/Atm_by_ayan.mp4" type="video/mp4" />
     Your browser does not support the video tag.
   </video>
 
@@ -151,7 +151,7 @@ npm run dev
 
   <h2>🙌 Author</h2>
 
-  <p>Made with ❤️ by mdloq</p>
+  <p>Made with ❤️ by Md Ayan</p>
 
   <hr />
 
