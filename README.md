@@ -1,37 +1,54 @@
-# 💳 ATM Simulator
+<!DOCTYPE html>
 
-A modern ATM Simulator built using React and Tailwind CSS with smooth UI animations, PIN handling, withdrawal logic, and interactive transitions.
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ATM Simulator README</title>
+</head>
+<body>
 
----
+  <h1>💳 ATM Simulator</h1>
 
-# 🚀 Features
+  <p>
+    A modern ATM Simulator built using React and Tailwind CSS with smooth UI animations,
+    PIN handling, withdrawal logic, and interactive transitions.
+  </p>
 
-* 🔐 PIN authentication system
-* 💰 Withdrawal functionality
-* ⚡ Real-time state updates using React Hooks
-* 🎨 Modern UI with Tailwind CSS
-* ✨ Smooth transitions and glow effects
-* 📱 Responsive design
-* 🔊 Button click sound effects
-* 🧠 Conditional rendering for screen switching
+  <hr />
 
----
+  <h2>🚀 Features</h2>
 
-# 🛠️ Tech Stack
+  <ul>
+    <li>🔐 PIN authentication system</li>
+    <li>💰 Withdrawal functionality</li>
+    <li>⚡ Real-time state updates using React Hooks</li>
+    <li>🎨 Modern UI with Tailwind CSS</li>
+    <li>✨ Smooth transitions and glow effects</li>
+    <li>📱 Responsive design</li>
+    <li>🔊 Button click sound effects</li>
+    <li>🧠 Conditional rendering for screen switching</li>
+  </ul>
 
-## Frontend
+  <hr />
 
-* React.js
-* Tailwind CSS
-* JavaScript
-* HTML5
-* CSS3
+  <h2>🛠️ Tech Stack</h2>
 
----
+  <h3>Frontend</h3>
 
-# 📂 Project Structure
+  <ul>
+    <li>React.js</li>
+    <li>Tailwind CSS</li>
+    <li>JavaScript</li>
+    <li>HTML5</li>
+    <li>CSS3</li>
+  </ul>
 
-```bash
+  <hr />
+
+  <h2>📂 Project Structure</h2>
+
+  <pre>
 src/
  ├── components/
  ├── assets/
@@ -39,119 +56,108 @@ src/
  ├── UI.jsx
  ├── main.jsx
  └── index.css
-```
+  </pre>
 
----
+  <hr />
 
-# ⚙️ Installation
+  <h2>⚙️ Installation</h2>
 
-## 1. Clone the repository
+  <h3>1. Clone the repository</h3>
 
-```bash
-git clone <your-repository-link>
-```
+  <pre>
+git clone &lt;your-repository-link&gt;
+  </pre>
 
-## 2. Navigate into the project
+  <h3>2. Navigate into the project</h3>
 
-```bash
+  <pre>
 cd atm-simulator
-```
+  </pre>
 
-## 3. Install dependencies
+  <h3>3. Install dependencies</h3>
 
-```bash
+  <pre>
 npm install
-```
+  </pre>
 
-## 4. Start development server
+  <h3>4. Start development server</h3>
 
-```bash
+  <pre>
 npm run dev
-```
+  </pre>
 
----
+  <hr />
 
-# 🧩 Functionalities
+  <h2>🧩 Functionalities</h2>
 
-## 🔐 PIN Validation
+  <h3>🔐 PIN Validation</h3>
+  <ul>
+    <li>User enters PIN</li>
+    <li>Incorrect PIN handling</li>
+    <li>Screen transitions after validation</li>
+  </ul>
 
-* User enters PIN
-* Incorrect PIN handling
-* Screen transitions after validation
+  <h3>💸 Withdrawal System</h3>
+  <ul>
+    <li>Amount validation</li>
+    <li>Balance checking</li>
+    <li>Invalid amount protection</li>
+  </ul>
 
-## 💸 Withdrawal System
+  <h3>🎨 UI Effects</h3>
+  <ul>
+    <li>Glow buttons</li>
+    <li>Glassmorphism effects</li>
+    <li>Animated transitions</li>
+    <li>Interactive hover effects</li>
+  </ul>
 
-* Amount validation
-* Balance checking
-* Invalid amount protection
 
-## 🎨 UI Effects
+  <h2>🎥 Demo Video</h2>
 
-* Glow buttons
-* Glassmorphism effects
-* Animated transitions
-* Interactive hover effects
+  <video width="100%" controls>
+    <source src="./assets/Atm_by_ayan.mp4" type="video/mp4" />
+    Your browser does not support the video tag.
+  </video>
 
----
+  <hr />
 
-# 📸 Screenshots
+  <h2>📚 What I Learned</h2>
 
-Add your project screenshots here.
+  <ul>
+    <li>React state management using useState</li>
+    <li>Side effects using useEffect</li>
+    <li>Conditional rendering</li>
+    <li>Event handling</li>
+    <li>Tailwind CSS styling</li>
+    <li>UI animation techniques</li>
+    <li>Component-based architecture</li>
+  </ul>
 
-```bash
-/assets/screenshots/
-```
+  <hr />
 
----
+  <h2>🔮 Future Improvements</h2>
 
-# 🎥 Demo Video
+  <ul>
+    <li>🗄️ Database integration</li>
+    <li>🔑 Backend authentication</li>
+    <li>👤 Multiple user accounts</li>
+    <li>📊 Transaction history</li>
+    <li>🌐 Full-stack MERN conversion</li>
+    <li>💾 Local storage support</li>
+  </ul>
 
-Add your project demo video here.
+  <hr />
 
-```html
-<video width="100%" controls>
-  <source src="./assets/Atm_by_ayan.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-```
+  <h2>🙌 Author</h2>
 
-Or use Markdown:
+  <p>Made with ❤️ by mdloq</p>
 
-```md
-[▶ Watch Demo](./assets/demo.mp4)
-```
+  <hr />
 
----
+  <h2>⭐ Support</h2>
 
-# 📚 What I Learned
+  <p>If you liked this project, give it a ⭐ on GitHub.</p>
 
-* React state management using `useState`
-* Side effects using `useEffect`
-* Conditional rendering
-* Event handling
-* Tailwind CSS styling
-* UI animation techniques
-* Component-based architecture
-
----
-
-# 🔮 Future Improvements
-
-* 🗄️ Database integration
-* 🔑 Backend authentication
-* 👤 Multiple user accounts
-* 📊 Transaction history
-* 🌐 Full-stack MERN conversion
-* 💾 Local storage support
-
----
-
-# 🙌 Author
-
-Made with ❤️ by Ayan
-
----
-
-# ⭐ Support
-
-If you liked this project, give it a ⭐ on GitHub.
+</body>
+</html>
