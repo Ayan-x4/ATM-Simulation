@@ -112,12 +112,17 @@ npm run dev
     <li>Interactive hover effects</li>
   </ul>
 
+  <hr />
 
-  <h2>🎥 Demo Video</h2>
+  <h2>📸 Screenshots</h2>
 
-  <img width="100%">
-    <source src="https://s5.ezgif.com/tmp/ezgif-57a01fef3137a18f.gif" />
-  </img>
+  <p>Add your project screenshots here.</p>
+
+  <hr />
+
+  <h2>🎞️ Demo GIF</h2>
+
+  <img src="https://s5.ezgif.com/tmp/ezgif-57a01fef3137a18f.gif" width="100%" />
 
   <hr />
 
